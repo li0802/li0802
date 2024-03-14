@@ -27,5 +27,7 @@ JavaScript 25 mins         ▓░░░░░░░░░░░░░░░░�
 java       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 TypeScript 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
+
+### 学习状态
 ![仓库状态统计](https://github-readme-stats.vercel.app/api?username=li0802&show_icons=true&theme=transparent)
 ![学习语言](https://github-readme-stats.vercel.app/api/top-langs/?username=li0802&layout=compact&theme=tokyonight)
