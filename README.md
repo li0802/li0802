@@ -3,8 +3,16 @@
 <div align="center">
 
   <a href="https://github.com/li0802">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=System.init(User+%3D+%22li0802%22)%3B;Loading+Skill+Modules...;Target%3A+Full+Stack+Developer;Sync+Rate%3A+100%25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=System.init(User+%3D+%22li0802%22)%3B;Loading+Neural+Link...;Target%3A+Full+Stack+Developer;Sync+Rate%3A+400%25" alt="Typing SVG" />
   </a>
+
+  <p>
+    <code>⚠ WARNING: Neural Link Connecting...</code><br/>
+    <i>
+      “此乃被遗忘的数据终端。吾以此身为容器，破译名为 <b>Java</b> 与 <b>JavaScript</b> 的上古禁咒。<br/>
+      即使在充满 Bug 的混沌时间线中，我也将用键盘敲击出通往 <b>True End</b> 的绝对路径。”
+    </i>
+  </p>
 
   <p>
     <img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
