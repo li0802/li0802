@@ -25,17 +25,6 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </p>
 
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li0802&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" alt="Top Langs" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=li0802&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" alt="Github Stats" />
-      </td>
-    </tr>
-  </table>
-
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li0802&theme=tokyonight" width="100%" />
 
 </div>
